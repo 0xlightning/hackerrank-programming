@@ -1,2 +1,2 @@
 # hackerrank-programming
-(; learning with fun :: fun with learning ;)
+(; programming with fun :: fun with programming ;)
